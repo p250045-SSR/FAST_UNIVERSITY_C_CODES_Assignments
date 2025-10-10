@@ -1,2 +1,6 @@
 # FAST_UNIVERSITY_C_CODES_Assignments
-I am Shayan. I’m a student at FAST University passionate about programming, problem solving, and Artificial Intelligence. I have 4 years of experience in C and C++, and I’m currently learning Python for AI/ML. My goal is to build intelligent systems and contribute to open-source AI projects. 
+Hi! I’m Syed Shayan Rizvi, a Computer Science student at FAST University with a deep interest in programming, problem-solving, and Artificial Intelligence (AI).
+
+Over the past four years, I’ve built a strong foundation in C and C++, and I’m now expanding my skills in Python to dive deeper into AI and Machine Learning.
+
+I love exploring how code can solve real-world problems and make systems smarter. My goal is to build intelligent technologies and contribute to open-source AI projects that create a meaningful impact.
